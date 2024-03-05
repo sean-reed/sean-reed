@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sean-reed
 - 👀 My main interests are discrete event simulation and reliability modelling.
-- 💞️ I’m looking to collaborate on interesting projects in that space.
 - 📫 You can reach me by email.
